@@ -3,7 +3,6 @@ Dit is een tweede regel tekst!
 Dit is een derde regel tekst!
 -Deleted!-
 
+-Deleted... Again..!- 
 
-Hoe kan ik een merge doen vanaf een oudere commit???  
-GIT 1-0 Jens
-PS.. Toch is Jens nog steeds geweldig 
+PS.. Toch is Jens nog steeds geweldig!! <--- Uitroeptekens omdat het kan! 
