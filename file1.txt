@@ -1,6 +1,6 @@
 Dit is een regel tekst...
 Dit is een tweede regel tekst!
 Dit is een derde regel tekst!
-Dit is een tekst die in de vollgende commit verwijderd zal worden. 
+-Deleted!- 
 
 PS.. Jens is gewoon de beste!
